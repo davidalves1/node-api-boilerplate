@@ -2,8 +2,8 @@
   "development": {
     "username": "root",
     "password": "root123",
-    "database": "irancho_db",
-    "host": "irancho-db",
+    "database": "my_awesome_db",
+    "host": "my-awesome-db",
     "dialect": "mysql",
     "operatorsAliases": false
   },
